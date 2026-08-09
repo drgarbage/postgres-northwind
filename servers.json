@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Northwind-DB",
+      "Group": "Servers",
+      "Host": "db",
+      "Port": 5432,
+      "MaintenanceDB": "northwind",
+      "Username": "northwind",
+      "SSLMode": "prefer"
+    }
+  }
+}
